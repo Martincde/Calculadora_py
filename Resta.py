@@ -1,1 +1,4 @@
-print ("Resta")
+def resta ():
+
+
+    print ("Resta")
