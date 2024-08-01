@@ -1,3 +1,3 @@
 def suma():
-
-    print ("suma")
+    a= 2+3
+    print ("suma: ", a)
