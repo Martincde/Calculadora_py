@@ -22,4 +22,6 @@ Acciones en el desarrollo de la App:
 
 Completar funcionalidad de principal .py que integre las funciones creadas, suma.py, resta.py, etc.
 
+Test
+
 
