@@ -1,1 +1,3 @@
-print ("suma")
+def suma():
+
+    print ("suma")
